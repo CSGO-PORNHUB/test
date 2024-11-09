@@ -1,0 +1,23 @@
+/**
+  * @name SA
+  * @author OLED
+  * @version NEEGER
+  * @description Highly customized dark and ORANGE theme for Discord
+  * @authorId 1291763309317456067
+*/
+
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
+
+:root {
+  --darkplus-bg: #212121;
+  --darkplus-bg2: #302f2f;
+  --darkplus-sec: #ff9900;
+  --darkplus-links: #f9c947;
+  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/1304649906786537613/1304655356483338250/WsvpeK3o9TkfUMjXcjLsf6A9p1bww9zCBBTmfKEZI0i2DOaxedh_7usXBmQ8rS1utpFXQgBf-2SHkfN4wFsm9t1U4dN2godi_JATpX8_1.png?ex=67302e7c&is=672edcfc&hm=983965df2ec4c9997528bee953d2fd4da61dcf111e136239e2a8d07570665af2&);
+ --watermark-filter-invert: 0%;
+  --watermark-filter-sepia: 50%;
+  --watermark-filter-saturate: 3000%;
+  --watermark-filter-hue-rotate: 210deg;
+  --watermark-filter-brightness: 0%;
+  --watermark-filter-contrast: 0%;
+}
